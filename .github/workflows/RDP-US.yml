@@ -1,6 +1,6 @@
 name: ananinam
 
-on: RDP-Windows-GitHub
+on: rdp
 
 jobs:
   build:
