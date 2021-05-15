@@ -1,6 +1,6 @@
 name: ananinam
 
-on: rdp
+on: workflow_dispatch
 
 jobs:
   build:
